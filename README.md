@@ -73,15 +73,15 @@
 ## 静态网站应用案例
 
 静态网站案例：https://github.com/devsapp/website-example
-- 普通静态资源应用: `s init devsapp/website-example/website-base`
-- react应用 `s init devsapp/website-example/website-react`
-- vue应用 `s init devsapp/website-example/website-vue`
-- hexo应用 `s init devsapp/website-example/website-hexo`
-- docusaurus应用 `s init devsapp/website-example/website-docusaurus`
-- vuepress应用 `s init devsapp/website-example/website-vuepress`
+- 普通静态资源应用: `s init devsapp/website-example:website-base`
+- react应用 `s init devsapp/website-example:website-react`
+- vue应用 `s init devsapp/website-example:website-vue`
+- hexo应用 `s init devsapp/website-example:website-hexo`
+- docusaurus应用 `s init devsapp/website-example:website-docusaurus`
+- vuepress应用 `s init devsapp/website-example:website-vuepress`
 
 ## 开源框架应用案例
 - Midway FaaS：https://github.com/devsapp/midway-hook-example
-    - react模板: `s init devsapp/midway-hook-example/midway-hook-react`
-    - vue模板 `s init devsapp/midway-hook-example/midway-hook-vue`
+    - react模板: `s init devsapp/midway-hook-example:midway-hook-react`
+    - vue模板 `s init devsapp/midway-hook-example:midway-hook-vue`
 - Malagu：https://github.com/devsapp/start-s-malagu
