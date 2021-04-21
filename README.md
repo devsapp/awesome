@@ -33,7 +33,7 @@
 <td align="center">3</td>
 <td align="center"><a href="https://github.com/devsapp/start-next">Nextjs</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-bottle">Bottle</a></td>
-<td align="center">Discuz</td><td></td><td align="center">Quarkus</td>
+    <td align="center"><a href="https://github.com/devsapp/start-discuz">Discuz</a></td><td></td><td align="center">Quarkus</td>
 <td align="center"></td>
 </tr>
 <tr>
