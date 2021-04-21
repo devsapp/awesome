@@ -54,13 +54,14 @@
 <td align="center">6</td>
 <td align="center"><a href="https://github.com/devsapp/start-koa" >Koa</a></td>
 <td align="center">FastAPI</td>
-<td>ReactPHP</td><td></td><td></td><td></td>
+<td align="center">ReactPHP</td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">7</td>
 <td align="center"><a href="https://github.com/devsapp/start-hapi" >Hapi</a></td>
 <td align="center">Web2py</td>
-<td></td><td></td><td></td><td></td>
+<td align="center"><a href="https://github.com/devsapp/start-metinfo" >Metinfo</a></td>
+    <td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">8</td>
