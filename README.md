@@ -81,6 +81,13 @@
 - docusaurus应用 `s init devsapp/website-example:website-docusaurus`
 - vuepress应用 `s init devsapp/website-example:website-vuepress`
 
+## Alinode
+可观测性：
+    - Insight： https://github.com/devsapp/alinode-faas-insight
+    - Runtime Http:  https://github.com/devsapp/alinode-runtime-http
+    - FaaS Logs:  https://github.com/devsapp/alinode-faas-sls-log
+    - Runtime Deploy:  https://github.com/devsapp/alinode-runtime-deploy
+
 ## 开源框架应用案例
 - Midway FaaS：https://github.com/devsapp/midway-hook-example
     - react模板: `s init devsapp/midway-hook-example:midway-hook-react`
