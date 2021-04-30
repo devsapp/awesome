@@ -93,3 +93,10 @@
     - react模板: `s init devsapp/midway-hook-example:midway-hook-react`
     - vue模板 `s init devsapp/midway-hook-example:midway-hook-vue`
 - Malagu：https://github.com/devsapp/start-s-malagu
+
+## Blog集合
+- Zblog:  https://github.com/devsapp/start-zblog    `s init devsapp/start-zblog`
+- Wordpress:  https://github.com/devsapp/start-wordpress    `s init devsapp/start-wordpress`
+- Hexo:  https://github.com/devsapp/start-hexo    `s init devsapp/start-hexo`
+- Vuepress:  https://github.com/devsapp/website-example    `s init devsapp/website-example:website-vuepress`
+- Django Blog: https://github.com/devsapp/django-blog    `s init devsapp/django-zblog` 
