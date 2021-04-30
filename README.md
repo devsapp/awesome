@@ -94,9 +94,22 @@
     - vue模板 `s init devsapp/midway-hook-example:midway-hook-vue`
 - Malagu：https://github.com/devsapp/start-s-malagu
 
-## Blog集合
+## 场景合集
+
+### Blog集合
 - Zblog:  https://github.com/devsapp/start-zblog    `s init devsapp/start-zblog`
 - Wordpress:  https://github.com/devsapp/start-wordpress    `s init devsapp/start-wordpress`
 - Hexo:  https://github.com/devsapp/start-hexo    `s init devsapp/start-hexo`
 - Vuepress:  https://github.com/devsapp/website-example    `s init devsapp/website-example:website-vuepress`
 - Django Blog: https://github.com/devsapp/django-blog    `s init devsapp/django-zblog` 
+
+### 企业官网
+- Metinfo: https://github.com/devsapp/start-metinfo   `s init devsapp/start-metinfo`
+
+### 社区问答
+- Whatsns: https://github.com/devsapp/start-whatsns   `s init devsapp/start-whatsns`
+- Discuz: https://github.com/devsapp/start-discuz   `s init devsapp/start-discuz`
+
+### 电子商务
+- Echsop： https://github.com/devsapp/start-ecshop    `s init devsapp/start-ecshop`
+- Expresscart： https://github.com/devsapp/start-expresscart    `s init devsapp/start-expresscart`
