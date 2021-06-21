@@ -69,6 +69,12 @@
 <td align="center"><a href="https://github.com/devsapp/start-pyramid" >Pyramid</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-whatsns" >Whatsns</a></td><td></td><td></td><td></td>
 </tr>
+<tr>
+<td align="center">9</td>
+    <td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://github.com/devsapp/start-typecho" >Typecho</a></td><td></td><td></td><td></td>
+</tr>
 </table>
 
 ## 静态网站应用案例
@@ -95,6 +101,7 @@
 - Hexo:  https://github.com/devsapp/start-hexo    `s init devsapp/start-hexo`
 - Vuepress:  https://github.com/devsapp/website-example    `s init devsapp/website-example:website-vuepress`
 - Django Blog: https://github.com/devsapp/django-blog    `s init devsapp/django-zblog` 
+- Typecho: https://github.com/devsapp/start-typecho    `s init devsapp/start-typecho` 
 
 ### 企业官网
 - Metinfo: https://github.com/devsapp/start-metinfo   `s init devsapp/start-metinfo`
