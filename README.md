@@ -113,3 +113,9 @@
 ### 电子商务
 - Echsop： https://github.com/devsapp/start-ecshop    `s init devsapp/start-ecshop`
 - Expresscart： https://github.com/devsapp/start-expresscart    `s init devsapp/start-expresscart`
+
+### 其他
+- puppeteer-app：https://github.com/devsapp/puppeteer-app    `s init devsapp/puppeteer-app`
+- image-prediction-app：https://github.com/devsapp/image-prediction-app    `s init devsapp/image-prediction-app`
+- todolist-app：https://github.com/devsapp/todolist-app    `s init devsapp/todolist-app`
+- ffmpeg-app ：https://github.com/devsapp/ffmpeg-app    `s init devsapp/ffmpeg-app`
