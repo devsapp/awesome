@@ -27,7 +27,7 @@
 <td align="center"><a href="https://github.com/devsapp/start-tornado">Tornado</a></td>
 <td align="center">laravel</td>
 <td align="center">Gin</td>
-<td align="center">Spring Boot</td><td>Hugo</td>
+    <td align="center"><a href="https://github.com/devsapp/start-springboot">Spring Boot</a></td><td>Hugo</td>
 </tr>
 <tr>
 <td align="center">3</td>
