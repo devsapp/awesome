@@ -25,7 +25,7 @@
 <td align="center">2</td>
 <td align="center"><a href="https://github.com/devsapp/start-egg">Egg</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-tornado">Tornado</a></td>
-<td align="center">laravel</td>
+<td align="center"><a href="https://github.com/devsapp/start-laravel">laravel</a></td>
 <td align="center">Gin</td>
     <td align="center"><a href="https://github.com/devsapp/start-springboot">Spring Boot</a></td><td>Hugo</td>
 </tr>
