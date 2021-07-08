@@ -119,3 +119,4 @@
 - image-prediction-app：https://github.com/devsapp/image-prediction-app    `s init devsapp/image-prediction-app`
 - todolist-app：https://github.com/devsapp/todolist-app    `s init devsapp/todolist-app`
 - ffmpeg-app ：https://github.com/devsapp/ffmpeg-app    `s init devsapp/ffmpeg-app`
+- fc-bigdata：https://github.com/devsapp/fc-bigdata    `s init devsapp/fc-bigdata`
