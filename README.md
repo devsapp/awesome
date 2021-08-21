@@ -115,8 +115,16 @@
 - Expresscart： https://github.com/devsapp/start-expresscart    `s init devsapp/start-expresscart`
 
 ### 其他
-- puppeteer-app：https://github.com/devsapp/puppeteer-app    `s init devsapp/puppeteer-app`
-- image-prediction-app：https://github.com/devsapp/image-prediction-app    `s init devsapp/image-prediction-app`
-- todolist-app：https://github.com/devsapp/todolist-app    `s init devsapp/todolist-app`
-- ffmpeg-app ：https://github.com/devsapp/ffmpeg-app    `s init devsapp/ffmpeg-app`
-- fc-bigdata：https://github.com/devsapp/fc-bigdata    `s init devsapp/fc-bigdata`
+- 该项目模板是一个基于 puppeteer 的截图 Web 应用: 
+    - https://github.com/devsapp/puppeteer-app    `s init devsapp/puppeteer-app`
+    - https://github.com/devsapp/start-puppeteer    `s init devsapp/start-puppeteer`
+- 一款基于人工智能的目标检测应用: https://github.com/devsapp/image-prediction-app    `s init devsapp/image-prediction-app`
+- 一款基于Node.JS的网页TodoList应用: https://github.com/devsapp/todolist-app    `s init devsapp/todolist-app`
+- 基于函数计算 FC + FFmpeg 实现 Serverless 架构的弹性高可用的高度自定义音视频处理主题: https://github.com/devsapp/ffmpeg-app    `s init devsapp/ffmpeg-app`
+- 对直播视频流截图的应用: https://github.com/devsapp/start-rtmp-snapshot   `s init start-rtmp-snapshot`
+- 一个对浏览器全景录制: https://github.com/devsapp/start-headless-ffmpeg   `s init start-headless-ffmpeg`
+- 一个word转pdf的应用: https://github.com/devsapp/start-word2pdf   `s init start-word2pdf`
+- 一个pdf转图片的应用: https://github.com/devsapp/start-pdf2img   `s init start-pdf2img`
+- 在Serverless架构玩转pyTorch: https://github.com/devsapp/start-pytorch   `s init start-pytorch`
+- 在Serverless架构玩转Tensorflow: https://github.com/devsapp/start-tensorflow   `s init start-tensorflow`
+- Serverless架构的OCR工具: https://github.com/devsapp/start-ocr   `s init start-ocr`
