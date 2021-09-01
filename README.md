@@ -53,7 +53,7 @@
 <tr>
 <td align="center">6</td>
 <td align="center"><a href="https://github.com/devsapp/start-koa">Koa(Container)</a><br><a href="https://github.com/devsapp/nodejs-koa">Koa(Node.js Runtime)</a></td>
-<td align="center">FastAPI</td
+    <td align="center">FastAPI</td>
 <td align="center"><a href="https://github.com/devsapp/start-ecshop" >Ecshop</a></td><td></td><td></td><td></td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td align="center">9</td>
-    <td align="center"></td>
+ <td align="center"></td>
 <td align="center"></td>
 <td align="center"><a href="https://github.com/devsapp/start-typecho" >Typecho</a></td><td></td><td></td><td></td>
 </tr>
