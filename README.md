@@ -1,5 +1,11 @@
 # Serverless Devs Registry Application Awesome
 
+> 本仓库是Serverless Devs阿里云系列的Awesom，在这里可以查看到关于阿里云相关组件的大部分内容。除了下面正文中的详细信息，您还可能需要关注：
+> 1. [Serverless Devs与CICD的结合](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md)
+> 2. [函数计算组件文档](https://github.com/devsapp/fc) 与 [函数计算快速入门文档](https://github.com/devsapp/start-fc)
+> 3. [Serverless 应用引擎（SAE）文档](https://github.com/devsapp/sae) 与 [Serverless 应用引擎（SAE）快速入门文档](https://github.com/devsapp/start-sae)    
+> 更多关于案例和内容，可以参考以下目录。
+
 - [Hello World](#Hello-World)
 - [Web Framework应用案例](#Web-Framework应用案例)
 - [静态网站应用案例](#静态网站应用案例)
@@ -156,7 +162,7 @@
 > 考虑到部分用户在使用 Nuxt 等框架时，有 SSR 或者 SPA 的目的，所以本仓库也提供了类似的案例：
 > - [next-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/next-ssr/src): `s init start-next-ssr`
 > - [nuxt-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-ssr/src): `s init start-nuxt-ssr`
-> - [nuxt-spi](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-spa/src): `s init start-nuxt-spa`     
+> - [nuxt-spa](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-spa/src): `s init start-nuxt-spa`     
 > 为了对比Custom运行时和编程语言原生运行时的框架迁移区别，可以参考以下案例进行自行对比：
 >
 > | 框架名 | Custom运行时 | Node.js 12运行时 |
