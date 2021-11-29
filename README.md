@@ -147,3 +147,5 @@
     - [基于Container的案例](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-container/src): `s init puppeteer-container`
 - [word转pdf的应用](https://github.com/devsapp/start-word2pdf): `s init start-word2pdf`
 - [pdf转图片的应用](https://github.com/devsapp/start-pdf2img): `s init start-pdf2img`
+- [电商后端管理系统](https://github.com/devsapp/start-fc-mall-admin): `s init start-fc-mall-admin`
+- [现代应用解决方案](https://github.com/devsapp/modern-web-application): `s init modern-web-application`
