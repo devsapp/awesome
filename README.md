@@ -142,9 +142,8 @@
     - [Lindorm案例](https://github.com/devsapp/start-fc-db/tree/main/python/lindorm/src): `s init start-fc-lindorm-python`
 
 ### 其他
-- 该项目模板是一个基于 puppeteer 的截图 Web 应用: 
-    - https://github.com/devsapp/puppeteer-app    `s init puppeteer-app`
-    - https://github.com/devsapp/start-puppeteer    `s init start-puppeteer`
-- 一款基于Node.JS的网页TodoList应用: https://github.com/devsapp/todolist-app    `s init todolist-app`
-- 一个word转pdf的应用: https://github.com/devsapp/start-word2pdf   `s init start-word2pdf`
-- 一个pdf转图片的应用: https://github.com/devsapp/start-pdf2img   `s init start-pdf2img`
+- 基于 puppeteer 的截图 Web 应用: 
+    - [基于Node.js的案例](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-nodejs/src): `s init puppeteer-nodejs`
+    - [基于Container的案例](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-container/src): `s init puppeteer-container`
+- [word转pdf的应用](https://github.com/devsapp/start-word2pdf/src): `s init start-word2pdf`
+- [pdf转图片的应用](https://github.com/devsapp/start-pdf2img/src): `s init start-pdf2img`
