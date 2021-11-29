@@ -127,9 +127,9 @@
 
 ### 音视频处理案例
 
-- 基于函数计算 FC + FFmpeg 实现 Serverless 架构的弹性高可用的高度自定义音视频处理主题: https://github.com/devsapp/ffmpeg-app    `s init ffmpeg-app`
-- 对直播视频流截图的应用: https://github.com/devsapp/start-rtmp-snapshot   `s init start-rtmp-snapshot`
-- 一个对浏览器全景录制: https://github.com/devsapp/start-headless-ffmpeg   `s init start-headless-ffmpeg`
+- [弹性高可用的高度自定义音视频处理](https://github.com/devsapp/start-ffmpeg/tree/master/ffmpeg-app/src): `s init ffmpeg-app`
+- [对直播视频流截图的应用](https://github.com/devsapp/start-ffmpeg/tree/master/rtmp-snapshot/src): `s init rtmp-snapshot`
+- [一个对浏览器全景录制](https://github.com/devsapp/start-ffmpeg/tree/master/headless-ffmpeg/src): `s init headless-ffmpeg`
 
 ### Serverless架构下数据库使用
 
@@ -145,5 +145,5 @@
 - 基于 puppeteer 的截图 Web 应用: 
     - [基于Node.js的案例](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-nodejs/src): `s init puppeteer-nodejs`
     - [基于Container的案例](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-container/src): `s init puppeteer-container`
-- [word转pdf的应用](https://github.com/devsapp/start-word2pdf/src): `s init start-word2pdf`
-- [pdf转图片的应用](https://github.com/devsapp/start-pdf2img/src): `s init start-pdf2img`
+- [word转pdf的应用](https://github.com/devsapp/start-word2pdf): `s init start-word2pdf`
+- [pdf转图片的应用](https://github.com/devsapp/start-pdf2img): `s init start-pdf2img`
