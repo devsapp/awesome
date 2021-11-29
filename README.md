@@ -5,6 +5,7 @@
 - [场景合集](#场景合集)
     - [AI场景](#AI场景)
     - [音视频处理案例](#音视频处理案例)
+    - [Serverless架构下数据库使用](#Serverless架构下数据库使用)
     - [其他](#其他)
 
 ## Web Framework应用案例
@@ -108,32 +109,42 @@
 ## 静态网站应用案例
 
 静态网站案例：https://github.com/devsapp/website-example
-- [普通静态资源应用](https://github.com/devsapp/start-website/tree/master/website-base/src): `s init devsapp/website-base`
-- [react应用](https://github.com/devsapp/start-website/tree/master/website-react/src) `s init devsapp/website-react`
-- [vue应用](https://github.com/devsapp/start-website/tree/master/website-vue/src) `s init devsapp/website-vue`
-- [hexo应用](https://github.com/devsapp/start-website/tree/master/website-hexo/src) `s init devsapp/website-hexo`
-- [docusaurus应用](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init devsapp/website-docusaurus`
-- [vuepress应用](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init devsapp/website-vuepress`
+- [普通静态资源应用](https://github.com/devsapp/start-website/tree/master/website-base/src): `s init website-base`
+- [react应用](https://github.com/devsapp/start-website/tree/master/website-react/src) `s init website-react`
+- [vue应用](https://github.com/devsapp/start-website/tree/master/website-vue/src) `s init website-vue`
+- [hexo应用](https://github.com/devsapp/start-website/tree/master/website-hexo/src) `s init website-hexo`
+- [docusaurus应用](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init website-docusaurus`
+- [vuepress应用](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init website-vuepress`
 
 ## 场景合集
 
 ### AI场景
 
-- [PyTorch案例](https://github.com/devsapp/start-ai/tree/master/start-pytorch/src) `s init devsapp/start-pytorch`
-- [Tensorflow案例](https://github.com/devsapp/start-ai/tree/master/start-tensorflow/src) `s init devsapp/start-tensorflow`
-- [OCR案例](https://github.com/devsapp/start-ai/tree/master/start-ocr/src) `s init devsapp/start-ocr`
-- [目标检测案例](https://github.com/devsapp/start-ai/tree/master/image-prediction-app/src) `s init devsapp/image-prediction-app`
+- [PyTorch案例](https://github.com/devsapp/start-ai/tree/master/start-pytorch/src) `s init start-pytorch`
+- [Tensorflow案例](https://github.com/devsapp/start-ai/tree/master/start-tensorflow/src) `s init start-tensorflow`
+- [OCR案例](https://github.com/devsapp/start-ai/tree/master/start-ocr/src) `s init start-ocr`
+- [目标检测案例](https://github.com/devsapp/start-ai/tree/master/image-prediction-app/src) `s init image-prediction-app`
 
 ### 音视频处理案例
 
-- 基于函数计算 FC + FFmpeg 实现 Serverless 架构的弹性高可用的高度自定义音视频处理主题: https://github.com/devsapp/ffmpeg-app    `s init devsapp/ffmpeg-app`
+- 基于函数计算 FC + FFmpeg 实现 Serverless 架构的弹性高可用的高度自定义音视频处理主题: https://github.com/devsapp/ffmpeg-app    `s init ffmpeg-app`
 - 对直播视频流截图的应用: https://github.com/devsapp/start-rtmp-snapshot   `s init start-rtmp-snapshot`
 - 一个对浏览器全景录制: https://github.com/devsapp/start-headless-ffmpeg   `s init start-headless-ffmpeg`
 
+### Serverless架构下数据库使用
+
+- python案例
+    - [mysql案例](https://github.com/devsapp/start-fc-db/tree/main/python/mysql/src): `s init start-fc-mysql-python`
+    - [redis案例](https://github.com/devsapp/start-fc-db/tree/main/python/redis/src): `s init start-fc-redis-python`
+    - [mongodb案例](https://github.com/devsapp/start-fc-db/tree/main/python/mongodb/src): `s init start-fc-mongodb-python`
+    - [sql-server案例](https://github.com/devsapp/start-fc-db/tree/main/python/sql_server/src): `s init start-fc-sql-server-python`
+    - [postgresql案例](https://github.com/devsapp/start-fc-db/tree/main/python/postgresql/src): `s init start-fc-postgresql-python`
+    - [Lindorm案例](https://github.com/devsapp/start-fc-db/tree/main/python/lindorm/src): `s init start-fc-lindorm-python`
+
 ### 其他
 - 该项目模板是一个基于 puppeteer 的截图 Web 应用: 
-    - https://github.com/devsapp/puppeteer-app    `s init devsapp/puppeteer-app`
-    - https://github.com/devsapp/start-puppeteer    `s init devsapp/start-puppeteer`
-- 一款基于Node.JS的网页TodoList应用: https://github.com/devsapp/todolist-app    `s init devsapp/todolist-app`
+    - https://github.com/devsapp/puppeteer-app    `s init puppeteer-app`
+    - https://github.com/devsapp/start-puppeteer    `s init start-puppeteer`
+- 一款基于Node.JS的网页TodoList应用: https://github.com/devsapp/todolist-app    `s init todolist-app`
 - 一个word转pdf的应用: https://github.com/devsapp/start-word2pdf   `s init start-word2pdf`
 - 一个pdf转图片的应用: https://github.com/devsapp/start-pdf2img   `s init start-pdf2img`
