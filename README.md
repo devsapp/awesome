@@ -16,7 +16,7 @@
 <th>HTTP函数</th>
 <th>Event函数</th>
 <th>Custom Runtime</th>
-<th>CUstom Container</th>
+<th>Custom Container</th>
 </tr>
 <tr>
 <td align="center">
