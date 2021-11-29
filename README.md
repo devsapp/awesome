@@ -151,3 +151,11 @@
 - [pdf转图片的应用](https://github.com/devsapp/start-pdf2img): `s init start-pdf2img`
 - [电商后端管理系统](https://github.com/devsapp/start-fc-mall-admin): `s init start-fc-mall-admin`
 - [现代应用解决方案](https://github.com/devsapp/modern-web-application): `s init modern-web-application`
+
+#### 活动场景
+
+> 这一部分记录的是一些活动的小案例，仅供学习使用
+
+- [基于函数计算的红白机游戏](https://github.com/devsapp/fc-nes-game): `s init fc-nes-game`
+- [基于函数计算的盲盒游戏](https://github.com/devsapp/blindbox-game): `s init blindbox-game`
+- [创意活动Jamsatck站点](https://github.com/devsapp/start-jamstack-activities): `s init start-jamstack-activities`
