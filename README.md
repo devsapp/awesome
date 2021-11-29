@@ -1,4 +1,3 @@
-# Serverless Devs Registry Application Awesome
 
 > 本仓库是Serverless Devs阿里云系列的Awesom，在这里可以查看到关于阿里云相关组件的大部分内容。除了下面正文中的详细信息，您还可能需要关注：
 > 1. [Serverless Devs与CICD的结合](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md)
