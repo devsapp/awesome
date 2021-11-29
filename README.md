@@ -1,6 +1,6 @@
 ![](https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1638187918372_20211129121158776024.png)
 
-> 本仓库是Serverless Devs阿里云系列的Awesom，在这里可以查看到关于阿里云相关组件的大部分内容。除了下面正文中的详细信息，您还可能需要关注：
+> 本仓库是Serverless Devs阿里云系列的Awesome，在这里可以查看到关于阿里云相关组件的大部分内容。除了下面正文中的详细信息，您还可能需要关注：
 > 1. [Serverless Devs与CICD的结合](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md)
 > 2. [函数计算组件文档](https://github.com/devsapp/fc) 与 [函数计算快速入门文档](https://github.com/devsapp/start-fc)
 > 3. [Serverless 应用引擎（SAE）文档](https://github.com/devsapp/sae) 与 [Serverless 应用引擎（SAE）快速入门文档](https://github.com/devsapp/start-sae)    
