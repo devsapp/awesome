@@ -226,3 +226,4 @@
 - [基于函数计算的红白机游戏](https://github.com/devsapp/fc-nes-game): `s init fc-nes-game`
 - [基于函数计算的盲盒游戏](https://github.com/devsapp/blindbox-game): `s init blindbox-game`
 - [创意活动Jamsatck站点](https://github.com/devsapp/start-jamstack-activities): `s init start-jamstack-activities`
+- [Serverless架构的弹幕应用](https://github.com/devsapp/start-barrage): `s init tart-barrage`
