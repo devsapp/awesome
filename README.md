@@ -49,7 +49,8 @@
 <a href="https://github.com/devsapp/start-fc/tree/master/custom-function/golang/fc-custom-golang-event/src">Golang example</a><br>
 <a href="https://github.com/devsapp/start-fc/tree/master/custom-function/nodejs10/fc-custom-nodejs10-event/src">Nodejs10 example</a><br>
 <a href="https://github.com/devsapp/start-fc/tree/master/custom-function/nodejs12/fc-custom-nodejs12-event/src">Nodejs12 example</a><br>
-<a href="https://github.com/devsapp/start-fc/tree/master/custom-function/php74/fc-custom-php74-event/src">PHP74-Swoole</a><br>
+<a href="https://github.com/devsapp/start-fc/tree/master/custom-function/php74/fc-custom-php74-event/src">PHP74-Swoole Event函数</a><br>
+<a href="https://github.com/devsapp/start-fc/tree/master/custom-function/php74/fc-custom-php74-http/src">PHP74-Swoole HTTP函数</a><br>
 <a href="https://github.com/devsapp/start-fc/tree/master/custom-function/python37/fc-custom-python37-event/src">Python37 Event函数</a><br>
 <a href="https://github.com/devsapp/start-fc/tree/master/custom-function/python37/fc-custom-python37-http/src">Python37 HTTP函数</a><br>
 <a href="https://github.com/devsapp/start-fc/tree/master/custom-function/cpp/fc-custom-cpp-event/src">C++ Event函数</a><br>
