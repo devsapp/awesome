@@ -133,7 +133,7 @@
 <tr>
 <td align="center">6</td>
 <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/koa/src">Koa [custom]</a></td>
-    <td align="center">FastAPI</td>
+    <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/python/fastapi/src" >FastAPI [custom]</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/ecshop/src" >Ecshop [custom]</a></td><td></td><td></td><td></td>
 </tr>
 <tr>
