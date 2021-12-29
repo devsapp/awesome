@@ -158,8 +158,8 @@
 </table>
 
 > 除了上面的案例之外，还提供了两个简单的实践应用：
-> - [基于Express框架的todoList应用](./example/todolist-app/src)：`s init todolist-app`
-> - [基于Django框架的博客应用](./example/django-blog/src)：`s init django-blog`    
+> - [基于Express框架的todoList应用](https://github.com/devsapp/start-web-framework/blob/master/example/todolist-app/src)：`s init todolist-app`
+> - [基于Django框架的博客应用](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src)：`s init django-blog`    
 > 考虑到部分用户在使用 Nuxt 等框架时，有 SSR 或者 SPA 的目的，所以本仓库也提供了类似的案例：
 <!-- > - [next-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/next-ssr/src): `s init start-next-ssr` -->
 > - [nuxt-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-ssr/src): `s init start-nuxt-ssr`
