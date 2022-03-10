@@ -120,7 +120,7 @@
 </tr>
 <tr>
 <td align="center">4</td>
-<td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt/src">Nuxtjs [custom]</a></td>
+<td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-ssr/src">Nuxtjs [custom]</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/python/webpy/src">Web.py [python3]</a></td>
 <td align="center"> :fire::fire::fire: <a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/wordpress/src" >WordPress [custom]</a></td><td></td><td></td>
 <td align="center"></td>
