@@ -1,6 +1,6 @@
 ![](https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1638187918372_20211129121158776024.png)
 
-<p align="center"><b> <a href="./readme.md"> 中文 </a> | English </b></p>
+<p align="center"><b> <a href="./README.md"> 中文 </a> | English </b></p>
 
 > This repository is Awesome of the Alibaba Cloud series by Serverless Devs, where you can view most of the Alibaba Cloud related components. In addition to the details in the main text below, you may also want to pay attention to:
 > 1. [Combination of Serverless Devs and CICD](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md)
