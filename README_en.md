@@ -9,13 +9,14 @@
 > For more cases and content, please refer to the following catalogue.
 
 - [Hello World](#Hello-World)
-- [Web Framework application case] (#Web-Framework application case)
-- [Static website application case] (#Static website application case)
-- [Scenario Collection](#Scenario Collection)
-    - [AI scene] (#AI scene)
-    - [Audio and video processing case] (#audio and video processing case)
-    - [Database usage under Serverless architecture] (#Database usage under Serverless architecture)
-    - [other](#other)
+- [Web Framework application case](#Web-Framework-application-case)
+- [Static website application case](#Static-website-application-case)
+- [Scenario Collection](#Scene-Collection)
+    - [AI scene](#AI-scene)
+    - [Audio and video processing case](#Audio-and-video-processing-case)
+    - [Database usage under Serverless architecture](#Database-usage-under-Serverless-architecture)
+    - [Others](#others)
+        - [Activity scene](#Activity-scene)
 
 ## Hello World
 
@@ -222,7 +223,7 @@ Currently, the Function Compute repository includes deployment cases for the fol
     - [postgresql case](https://github.com/devsapp/start-fc-db/tree/main/python/postgresql/src): `s init start-fc-postgresql-python`
     - [Lindorm case](https://github.com/devsapp/start-fc-db/tree/main/python/lindorm/src): `s init start-fc-lindorm-python`
 
-### other
+### Others
 - Screenshot web application based on puppeteer:
     - [Node.js-based case](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-nodejs/src): `s init puppeteer-nodejs`
     - [Container-based case](https://github.com/devsapp/start-puppeteer/tree/master/puppeteer-container/src): `s init puppeteer-container`
