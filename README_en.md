@@ -1,5 +1,7 @@
 ![](https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1638187918372_20211129121158776024.png)
 
+<p align="center"><b> <a href="./readme.md"> 中文 </a> | English </b></p>
+
 > This repository is Awesome of the Alibaba Cloud series by Serverless Devs, where you can view most of the Alibaba Cloud related components. In addition to the details in the main text below, you may also want to pay attention to:
 > 1. [Combination of Serverless Devs and CICD](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md)
 > 2. [Function Compute Component Documentation](https://github.com/devsapp/fc) and [Function Compute Quick Start Documentation](https://github.com/devsapp/start-fc)
@@ -168,11 +170,11 @@ Currently, the Function Compute repository includes deployment cases for the fol
 
 > In addition to the above cases, two simple practical applications are provided:
 > - [Express framework based todoList app](https://github.com/devsapp/start-web-framework/blob/master/example/todolist-app/src): `s init todolist-app`
-> - [Django framework based blog application](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src): `s init django-blog`
+> - [Django framework based blog application](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src): `s init django-blog`      
 > Considering that some users have the purpose of SSR or SPA when using frameworks such as Nuxt, this repository also provides similar cases:
 <!-- > - [next-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/next-ssr/src): `s init start- next-ssr` -->
 > - [nuxt-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-ssr/src): `s init start-nuxt-ssr`
-> - [nuxt-spa](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-spa/src): `s init start-nuxt-spa`
+> - [nuxt-spa](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nuxt-spa/src): `s init start-nuxt-spa`      
 > In order to compare the framework migration differences between the Custom runtime and the programming language native runtime, you can refer to the following cases for your own comparison:
 >
 > | Framework name | Custom runtime | Node.js 12 runtime |
@@ -193,7 +195,7 @@ Currently, the Function Compute repository includes deployment cases for the fol
     - [docusaurus app](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init website-docusaurus`
     - [vuepress app](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init website-vuepress`
 
-> Of course, the static website cases listed above are all deployed to object storage after building, etc. You can also deploy directly to Function Compute (although this is not a recommended practice), you can refer to the [start-static-site documentation] ](https://github.com/devsapp/start-static-site) , you can also try to execute the command `s init start-static-site` to initialize
+> Of course, the static website cases listed above are all deployed to object storage after building, etc. You can also deploy directly to Function Compute (although this is not a recommended practice), you can refer to the [start-static-site documentation](https://github.com/devsapp/start-static-site) , you can also try to execute the command `s init start-static-site` to initialize
 
 ## Scene Collection
 
