@@ -197,9 +197,6 @@ Currently, the Function Compute repository includes deployment cases for the fol
 ## Static website application case
 
 - Static website case:
-    - [Normal static resource application](https://github.com/devsapp/start-website/tree/master/website-base/src): `s init website-base`
-    - [react app](https://github.com/devsapp/start-website/tree/master/website-react/src) `s init website-react`
-    - [vue app](https://github.com/devsapp/start-website/tree/master/website-vue/src) `s init website-vue`
     - [hexo app](https://github.com/devsapp/start-website/tree/master/website-hexo/src) `s init website-hexo`
     - [docusaurus app](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init website-docusaurus`
     - [vuepress app](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init website-vuepress`
