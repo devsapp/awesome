@@ -196,9 +196,6 @@
 ## 静态网站应用案例
 
 - 静态网站案例：
-    - [普通静态资源应用](https://github.com/devsapp/start-website/tree/master/website-base/src): `s init website-base`
-    - [react应用](https://github.com/devsapp/start-website/tree/master/website-react/src) `s init website-react`
-    - [vue应用](https://github.com/devsapp/start-website/tree/master/website-vue/src) `s init website-vue`
     - [hexo应用](https://github.com/devsapp/start-website/tree/master/website-hexo/src) `s init website-hexo`
     - [docusaurus应用](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init website-docusaurus`
     - [vuepress应用](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init website-vuepress`
