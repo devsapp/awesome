@@ -197,9 +197,9 @@ Currently, the Function Compute repository includes deployment cases for the fol
 ## Static website application case
 
 - Static website case:
-    - [hexo app](https://github.com/devsapp/start-website/tree/master/website-hexo/src) `s init website-hexo`
-    - [docusaurus app](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init website-docusaurus`
-    - [vuepress app](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init website-vuepress`
+    - [hexo app](https://github.com/devsapp/start-website/tree/master/hexo/src) `s init website-hexo`
+    - [docusaurus app](https://github.com/devsapp/start-website/tree/master/docusaurus/src) `s init website-docusaurus`
+    - [vuepress app](https://github.com/devsapp/start-website/tree/master/vuepress/src) `s init website-vuepress`
 
 > Of course, the static website cases listed above are all deployed to object storage after building, etc. You can also deploy directly to Function Compute (although this is not a recommended practice), you can refer to the [start-static-site documentation](https://github.com/devsapp/start-static-site) , you can also try to execute the command `s init start-static-site` to initialize
 

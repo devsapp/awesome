@@ -196,9 +196,9 @@
 ## 静态网站应用案例
 
 - 静态网站案例：
-    - [hexo应用](https://github.com/devsapp/start-website/tree/master/website-hexo/src) `s init website-hexo`
-    - [docusaurus应用](https://github.com/devsapp/start-website/tree/master/website-docusaurus/src) `s init website-docusaurus`
-    - [vuepress应用](https://github.com/devsapp/start-website/tree/master/website-vuepress/src) `s init website-vuepress`
+    - [hexo应用](https://github.com/devsapp/start-website/tree/master/hexo/src) `s init website-hexo`
+    - [docusaurus应用](https://github.com/devsapp/start-website/tree/master/docusaurus/src) `s init website-docusaurus`
+    - [vuepress应用](https://github.com/devsapp/start-website/tree/master/vuepress/src) `s init website-vuepress`
 
 > 当然，上面所列举的静态网站案例都是build之后部署到对象存储等，您也可以直接部署到函数计算（尽管这并不是一个值得推荐的做法），您可以参考[start-static-site文档](https://github.com/devsapp/start-static-site) , 也可以尝试执行命令`s init start-static-site`进行初始化
 
