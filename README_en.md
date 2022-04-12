@@ -179,7 +179,8 @@ Currently, the Function Compute repository includes deployment cases for the fol
 
 > In addition to the above cases, two simple practical applications are provided:
 > - [Express framework based todoList app](https://github.com/devsapp/start-web-framework/blob/master/example/todolist-app/src): `s init todolist-app`
-> - [Django framework based blog application](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src): `s init django-blog`      
+> - [Django framework based blog application](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src): `s init django-blog`  
+    
 > SSR frameworks
 > - [nuxt-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/nuxt-ssr/src): `s init start-nuxt-ssr`
 
