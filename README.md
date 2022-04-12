@@ -180,16 +180,16 @@
 > - [基于Express框架的todoList应用](https://github.com/devsapp/start-web-framework/blob/master/example/todolist-app/src)：`s init todolist-app`
 > - [基于Django框架的博客应用](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src)：`s init django-blog`    
 > SSR 框架：
-> - [nuxt-ssr](./web-framework/nodejs/custom-runtime/nuxt-ssr/src): `s init start-nuxt-ssr`
+> - [nuxt-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/nuxt-ssr/src): `s init start-nuxt-ssr`
 
 > 为了对比Custom运行时和编程语言原生运行时的框架迁移区别，可以参考以下案例进行自行对比：
 >
 > | 框架名 | Custom运行时 | Node.js 12运行时 |
 > | ----- | ----------- | ----------------|
-> | Egg.js | [egg](./web-framework/nodejs/custom-runtime/egg/src) | [egg-app](./web-framework/nodejs/nodejs-runtime/egg/src) |
-> | Express.js | [express](./web-framework/nodejs/custom-runtime/express/src) | [express-app](./web-framework/nodejs/nodejs-runtime/express/src) |
-> | Koa.js | [koa](./web-framework/nodejs/custom-runtime/koa/src) | [koa-app](./web-framework/nodejs/nodejs-runtime/koa/src) |
-> | Hapi.js | [hapi](./web-framework/nodejs/custom-runtime/hapi/src) | [hapi-app](./web-framework/nodejs/nodejs-runtime/hapi/src) |
+> | Egg.js | [egg](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/egg/src) | [egg-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/egg/src) |
+> | Express.js | [express](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/express/src) | [express-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/express/src) |
+> | Koa.js | [koa](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/koa/src) | [koa-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/koa/src) |
+> | Hapi.js | [hapi](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/hapi/src) | [hapi-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/hapi/src) |
 
 ## 静态网站应用案例
 

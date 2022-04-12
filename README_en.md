@@ -181,16 +181,16 @@ Currently, the Function Compute repository includes deployment cases for the fol
 > - [Express framework based todoList app](https://github.com/devsapp/start-web-framework/blob/master/example/todolist-app/src): `s init todolist-app`
 > - [Django framework based blog application](https://github.com/devsapp/start-web-framework/blob/master/example/django-blog/src): `s init django-blog`      
 > SSR frameworks
-> - [nuxt-ssr](./web-framework/nodejs/custom-runtime/nuxt-ssr/src): `s init start-nuxt-ssr`
+> - [nuxt-ssr](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/nuxt-ssr/src): `s init start-nuxt-ssr`
 
 > In order to compare the framework migration differences between the Custom runtime and the programming language native runtime, you can refer to the following cases for your own comparison:
 >
 > | Framework name | Custom runtime | Node.js 12 runtime |
 > | ----- | ----------- | ----------------|
-> | Egg.js | [egg](./web-framework/nodejs/custom-runtime/egg/src) | [egg-app](./web-framework/nodejs/nodejs-runtime/egg/src) |
-> | Express.js | [express](./web-framework/nodejs/custom-runtime/express/src) | [express-app](./web-framework/nodejs/nodejs-runtime/express/src) |
-> | Koa.js | [koa](./web-framework/nodejs/custom-runtime/koa/src) | [koa-app](./web-framework/nodejs/nodejs-runtime/koa/src) |
-> | Hapi.js | [hapi](./web-framework/nodejs/custom-runtime/hapi/src) | [hapi-app](./web-framework/nodejs/nodejs-runtime/hapi/src) |
+> | Egg.js | [egg](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/egg/src) | [egg-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/egg/src) |
+> | Express.js | [express](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/express/src) | [express-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/express/src) |
+> | Koa.js | [koa](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/koa/src) | [koa-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/koa/src) |
+> | Hapi.js | [hapi](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/hapi/src) | [hapi-app](https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/nodejs-runtime/hapi/src) |
 
 
 ## Static website application case
