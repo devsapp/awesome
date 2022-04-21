@@ -119,8 +119,9 @@
 <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/nodejs/custom-runtime/egg/src">Egg [custom]</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/python/tornado/src">Tornado [custom]</a></td>
 <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/php/laravel/src">laravel [custom]</a></td>
-<td align="center">Gin</td>
-    <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/java/springboot">SpringBoot [custom]</a></td><td>Hugo</td>
+<td align="center"><a href="https://github.com/liufangchen/start-gin">Gin [custom]</a></td>
+    <td align="center"><a href="https://github.com/devsapp/start-web-framework/tree/master/web-framework/java/springboot">SpringBoot [custom]</a></td>
+<td align="center"><a href="https://github.com/liufangchen/start-hugo">Hugo [custom]</a></td>
 </tr>
 <tr>
 <td align="center">3</td>
