@@ -5,7 +5,7 @@
 
 -----
 
-更多应用案例，可以参考 Serverless Regsitry：[http://www.devsapp.cn](http://www.devsapp.cn)
+***更多应用案例，可以参考 Serverless Regsitry：[http://www.devsapp.cn](http://www.devsapp.cn)***
 
 -----
 
