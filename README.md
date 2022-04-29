@@ -2,6 +2,14 @@
 
 <p align="center"><b> 中文 | <a href="./README_en.md"> English </a>  </b></p>
 
+
+-----
+
+更多应用案例，可以参考 Serverless Regsitry：[http://www.devsapp.cn](http://www.devsapp.cn)
+
+-----
+
+
 > 本仓库是Serverless Devs阿里云系列的Awesome，在这里可以查看到关于阿里云相关组件的大部分内容。除了下面正文中的详细信息，您还可能需要关注：
 > 1. [Serverless Devs与CICD的结合](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/cicd.md)
 > 2. [函数计算组件文档](https://github.com/devsapp/fc) 与 [函数计算快速入门文档](https://github.com/devsapp/start-fc)
